@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+
+@font-face {
+    font-family: 'Ongdachan';
+    src: url('../fonts/Ongdachan.ttf');
+}
+
+*{
+    font-family: 'Ongdachan';
+}
